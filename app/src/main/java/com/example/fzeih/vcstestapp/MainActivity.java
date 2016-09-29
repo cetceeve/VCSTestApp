@@ -1,7 +1,7 @@
 package com.example.fzeih.vcstestapp;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void placeForMergeProblems () {
         int i = 1 + 1;
+        String cowboy = "yiiihaaa";
     }
 }
