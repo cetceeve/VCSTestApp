@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void placeForMergeProblems () {
         int i = 1 + 1;
+        int ii = 2 + 2;
+        int iii = 3 + 3;
     }
 }
